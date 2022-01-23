@@ -160,7 +160,7 @@
                 <li class="nav-item"><a href="#" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-comments text-light fa-lg mr-3"></i>collection targets</a></li>
                 <li class="nav-item"><a href="#" class="progressbar nav-link text-white p-3 mb-2 sidebar-link "><i class="fa fa-users text-light fa-lg mr-3"></i>Progress</a></li>
                 <li class="nav-item"><a href="#" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-bullhorn text-light fa-lg mr-3"></i>Settings</a></li>
-                <li class="nav-item"><a href="index" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-grav text-light fa-lg mr-3"></i>Logout</a></li>
+                <li class="nav-item"><a href="https://ugcleancities.herokuapp.com" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-grav text-light fa-lg mr-3"></i>Logout</a></li>
 
             </div>
         </ul>
