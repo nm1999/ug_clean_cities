@@ -5,7 +5,7 @@ if(isset($_POST['submit'])){
     $email = $_POST['email'];
     $password  = $_POST['password'];
 
-    if($email == 'sera@gmail.com' and $password =='123'){
+    if($email == 'ugcleancities@gmail.com' and $password =='Cleanugcities123'){
         header('location:header.php');
     }else{
         $err = "invalid password or email address";
