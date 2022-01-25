@@ -104,7 +104,7 @@ div.desc {
 </div>
 <div class="down_menu w3-white">
 	<ul class="nav navbar">
-		<img src="images/logo.png" id="img"></a>
+		<img src="images/logo.png">
 		<li><a href="#home"  class="btn btn-success" >Home</a></li>
 		<li class="drop">
 			<a  class="btn btn-success">About Us</a>
@@ -154,7 +154,7 @@ div.desc {
 	
 	<ul  class="w3-sidenav modal w3-animate-left li" style="width:50%">
 		<div class="w3-closebtn">X</div>
-		<img src="images/logo.PNG" style="border-radius:100%" ></a>
+		<img src="images/logo.PNG" style="border-radius:100%" >
 		<li><a href="#home"  class="btn" >Home</a></li><br>
 		<li><a href="#obj" class="btn">Our Main Objectives</a></li><br>
 		<li><a href="#idea" class="btn">Problem description</a></li><br>
