@@ -104,7 +104,7 @@ div.desc {
 </div>
 <div class="down_menu w3-white">
 	<ul class="nav navbar">
-		<img src="images/log.png" id="img"></a>
+		<img src="images/logo.png" id="img"></a>
 		<li><a href="#home"  class="btn btn-success" >Home</a></li>
 		<li class="drop">
 			<a  class="btn btn-success">About Us</a>
