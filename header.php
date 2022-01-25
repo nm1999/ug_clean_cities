@@ -72,6 +72,7 @@
                 display:block;
                 }
             }
+            
 
             .nav-active {
             transform: translateX(0%);
@@ -118,13 +119,13 @@
                             <img class="rounded-circle mr-3 imgPreview" src="images/logo.PNG" style="width:100px;height:100px;margin-left:30px; background-color: rgb(156, 156, 156);">    
                         </div>                       
                         <ul class="navbar-nav flex-column mt-4 ">
-                            <li class="nav-item"><a href="#" class="sell nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-home text-light fa-lg mr-3"></i>Sell plastics</a></li>
+                            <li class="nav-item"><a href="#" class="sell nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-home text-light fa-lg mr-3"></i>Home</a></li>
                             <li class="nav-item"><a href="#" class="customer nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-user text-light fa-lg mr-3"></i>Customer requests</a></li>
                             <li class="nav-item"><a href="#" class="invest nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-edit text-light fa-lg mr-3"></i>innovations</a></li>
                             <li class="nav-item"><a href="#" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-comments text-light fa-lg mr-3"></i>collection targets</a></li>
                             <li class="nav-item"><a href="#" class="progressbar nav-link text-white p-3 mb-2 sidebar-link "><i class="fa fa-users text-light fa-lg mr-3"></i>Progress</a></li>
                             <li class="nav-item"><a href="#" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-bullhorn text-light fa-lg mr-3"></i>Settings</a></li>
-                            <li class="nav-item"><a href="index" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-grav text-light fa-lg mr-3"></i>Logout</a></li>
+                            <li class="nav-item"><a href="https://ugcleancities.herokuapp.com" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-grav text-light fa-lg mr-3"></i>Logout</a></li>
                             <!-- <li class="nav-item"><a href="/page-under-devt" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-wrench text-light fa-lg mr-3"></i>Settings</a></li> -->
                         </ul>
 
@@ -133,7 +134,7 @@
                     <!-- top-nav -->
                     <div class="col-xl-10 col-lg-9 col-md-8 ml-auto fixed-top py-2 top-navbar" style="background-color:#0000FF">
                         <div class="row align-items-center">
-                           <h3 class="ml-5" style="text-shadow:2px 3px white">Uganda Clean cities</h3>
+                           <h2 class="ml-5" style="color:white">Uganda Clean cities</h2>
                         </div>
                     </div>
                     <!-- end of top-nav -->
@@ -143,7 +144,7 @@
     </nav>
         <div class="navr d-flex navbar" style="background-color:#0000FF">
             <div class="">
-                <h3 style="color:white">Uganda clean cities</h3>
+                <h2 style="color:white">Uganda clean cities</h2>
             </div>
             <div class="">
                 <button class="btn dropdown-toggle ml-auto mb-2 logoCW" type="button" data-toggle="dropdown" onclick="navSlide()"> ☰</button>
@@ -154,7 +155,7 @@
     <div class="nav-2" >
         <ul class="nav-links" style="z-index: 1000;background-color:#006400">
             <div style="justify-content: left;">
-            <li class="nav-item"><a href="#" class="sell nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-home text-light fa-lg mr-3"></i>Sell plastics</a></li>
+            <li class="nav-item"><a href="#" class="sell nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-home text-light fa-lg mr-3"></i>Home</a></li>
                 <li class="nav-item"><a href="#" class="customer nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-user text-light fa-lg mr-3"></i>Customer requests</a></li>
                 <li class="nav-item"><a href="#" class="invest nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-edit text-light fa-lg mr-3"></i>innovations</a></li>
                 <li class="nav-item"><a href="#" class="nav-link text-white p-3 mb-2 sidebar-link"><i class="fa fa-comments text-light fa-lg mr-3"></i>collection targets</a></li>
