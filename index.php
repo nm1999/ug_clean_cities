@@ -171,7 +171,7 @@ div.desc {
 				</div>
 				<div id="obj"></div>
 			</div>
-			<h2>"It takes everyone to protect everyone against plastic pollution"</h2>
+			<h2 style="margin-top:200px;color:white">"It takes everyone to protect everyone against plastic pollution"</h2>
     </div>  
 	
    				 <!-- 			 Middle of the website -->
